@@ -3,7 +3,7 @@ package StringProjects;
 import java.util.Arrays;
 
 public class TestDemo {
-	
+	//Writing code for reverse a string
 	public static void main(String[] args) {
 		String str = "Udayayu";
 		int index=0;
